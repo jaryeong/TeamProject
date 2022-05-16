@@ -12,7 +12,7 @@ namespace Teamproject1
 {
     public partial class graghform : Form
     {
-        string text = "#일교차 #낮은더워 #밤에비올예정 #습해요";
+        string text = "#일교차 #낮은더위 #밤에비올예정 #습해요";
         public graghform()
         {
             InitializeComponent();
