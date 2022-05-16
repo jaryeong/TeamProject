@@ -1,7 +1,7 @@
 CREATE TABLE people_main(
 		season		VARCHAR(20),
 		weather		VARCHAR(20),
-		temperature	INT,
+		temperature	decimal,
 		top	        VARCHAR(20), 
         bottoms     VARCHAR(20),
         accessory   VARCHAR(20),
